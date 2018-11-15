@@ -1,5 +1,3 @@
-package setup.javaPlus;
-
 public abstract class StringPlus {
 
 	
