@@ -1,5 +1,3 @@
-package setup.javaPlus;
-
 public class ComplexNumber {
 	private double realNumber = 0.0;
 	private double imaginaryNumber = 0.0;
