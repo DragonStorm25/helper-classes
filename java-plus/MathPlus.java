@@ -1,5 +1,3 @@
-package setup.javaPlus;
-
 import java.awt.Point;
 import java.util.ArrayList;
 
